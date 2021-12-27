@@ -13,5 +13,6 @@ Entries are saved by clicking on the save button corresponding to the time block
 
 ![image](.images/screenshot2.png)
 
+https://github.com/GeorginaSolano/Daily-Planner
 
 
